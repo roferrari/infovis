@@ -9,3 +9,6 @@ https://public.flourish.studio/visualisation/1714444/
 
 # 2020 Week 13: Does pineapple belong on a pizza?
 https://datawrapper.dwcdn.net/vcMV5/1/
+
+# 2020 Week 14: Unpaid Work - Allocation of time and time-use
+https://public.tableau.com/profile/rocio.ferrari#!/vizhome/MM14FERRARI/Dashboard1?publish=yes
